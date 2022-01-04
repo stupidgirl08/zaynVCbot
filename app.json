@@ -1,13 +1,13 @@
 {
-    "name": "LuciferVCbot-1",
+    "name": "zaynVCbot",
     "description": "Telegram UserBot for Video Chat.",
-    "logo": "https://telegra.ph/file/dd8f845ad5e897645054e.jpg",
+    "logo": "https://telegra.ph/file/b36a3f1bbdfc4cc68e972.jpg ",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Akbotmakersnew/LuciferVCbot-1",
+    "repository": "https://github.com/iamdivyeshh/zaynVCbot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session. From https://t.me/Python_StringGen_bot",
